@@ -1,0 +1,2 @@
+#!/bin/env fish
+curl localhost:4567
